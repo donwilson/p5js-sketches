@@ -6,9 +6,9 @@ This project is powered by [p5.js](https://github.com/processing/p5.js) and orig
 
 ![Preview of A* Pathfinding Algorithm](preview.png?raw=true "Preview")
 
-## Interactive A* Pathfinding
-
 ---
+
+## Interactive A* Pathfinding
 
 There is also an example for testing the A* algorithm against a live drawing.
 
