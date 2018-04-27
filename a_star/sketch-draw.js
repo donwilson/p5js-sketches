@@ -17,25 +17,27 @@
 	
 	let found_path = false;
 	
-	document.getElementById("start").addEventListener("click", function() {
-		generateBoard();
+	window.addEventListener('load', function() {
+		document.getElementById("start").addEventListener("click", function() {
+			generateBoard();
+			
+			is_drawing = false;
+			
+			loop();
+		});
 		
-		is_drawing = false;
-		
-		loop();
-	});
-	
-	document.getElementById("restart").addEventListener("click", function() {
-		is_drawing = true;
-		
-		for(let i = 0; i < cols; i++) {
-			for(let j = 0; j < rows; j++) {
-				grid[i][j].wall = false;
+		document.getElementById("restart").addEventListener("click", function() {
+			is_drawing = true;
+			
+			for(let i = 0; i < cols; i++) {
+				for(let j = 0; j < rows; j++) {
+					grid[i][j].wall = false;
+				}
 			}
-		}
-		
-		loop();
-	});
+			
+			loop();
+		});
+	}, false);
 	
 	function buildGrid() {
 		// 2d array + create spots
