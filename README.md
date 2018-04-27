@@ -22,11 +22,11 @@ Random sketches based on tutorials and from my free time.
 #### QuadTree (**[view code](https://github.com/donwilson/p5js-sketches/quadtree/)**)
 [![Preview of QuadTree](quadtree/preview.png)](https://donwilson.github.io/p5js-sketches/quadtree/)
 
-#### QuadTree (w/live drawing) (**[view code](https://github.com/donwilson/p5js-sketches/quadtree/)**)
-[![Preview of QuadTree w/live drawing](quadtree/preview.png)](https://donwilson.github.io/p5js-sketches/quadtree/index-draw.html)
-
 #### Sine & Cosine (**[view code](https://github.com/donwilson/p5js-sketches/sine-cosine/)**)
 [![Preview of Sine & Cosine](sine-cosine/preview.png)](https://donwilson.github.io/p5js-sketches/sine-cosine/)
+
+#### A* Pathfinding (w/live drawing) (**[view code](https://github.com/donwilson/p5js-sketches/a_star/)**)
+[![Preview of A* Pathfinding w/live drawing](quadtree/preview.png)](https://donwilson.github.io/p5js-sketches/a_star/index-draw.html)
 
 #### Minesweeper (**[view code](https://github.com/donwilson/p5js-sketches/minesweeper/)**)
 [![Preview of Minesweeper](minesweeper/preview.png)](https://donwilson.github.io/p5js-sketches/minesweeper/)
