@@ -26,7 +26,7 @@ Random sketches based on tutorials and from my free time.
 [![Preview of Sine & Cosine](sine-cosine/preview.png)](https://donwilson.github.io/p5js-sketches/sine-cosine/)
 
 #### A* Pathfinding (w/live drawing) (**[view code](https://github.com/donwilson/p5js-sketches/a_star/)**)
-[![Preview of A* Pathfinding w/live drawing](quadtree/preview.png)](https://donwilson.github.io/p5js-sketches/a_star/index-draw.html)
+[![Preview of A* Pathfinding w/live drawing](a_star/preview-draw.png)](https://donwilson.github.io/p5js-sketches/a_star/index-draw.html)
 
 #### Minesweeper (**[view code](https://github.com/donwilson/p5js-sketches/minesweeper/)**)
 [![Preview of Minesweeper](minesweeper/preview.png)](https://donwilson.github.io/p5js-sketches/minesweeper/)
